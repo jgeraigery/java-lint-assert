@@ -7,7 +7,7 @@ repositories {
 dependencies {
 
 //testNG
-    compile group: 'org.testng', name: 'testng', version: '6.9.10'
+    compile group: 'org.testng', name: 'testng', version: '7.5.1'
 
 //junit 4
     compile 'junit:junit:4.12'
