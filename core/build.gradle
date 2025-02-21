@@ -23,7 +23,7 @@ dependencies {
     /** main dependencies */
     compile group:'org.ow2.asm', name:'asm', version:'7.0'
     compile group:'org.ow2.asm', name:'asm-util', version:'7.0'
-    compile group:'io.github.classgraph', name:'classgraph', version:'4.8.24'
+    compile group:'io.github.classgraph', name:'classgraph', version:'4.8.112'
 
     compile 'org.javatuples:javatuples:1.2'
     compile 'com.googlecode.json-simple:json-simple:1.1.1'
