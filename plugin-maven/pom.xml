@@ -15,7 +15,7 @@
     <packaging>maven-plugin</packaging>
 
     <properties>
-        <maven-mojo-plugin.version>3.6.0</maven-mojo-plugin.version>
+        <maven-mojo-plugin.version>3.8.2</maven-mojo-plugin.version>
         <maven-surefire-plugin.version>2.19.1</maven-surefire-plugin.version>
 
         <maven.compiler.target>1.8</maven.compiler.target>
